@@ -1,6 +1,15 @@
-Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 03:13:28) 
-[Clang 6.0 (clang-600.0.57)] on darwin
-Type "help", "copyright", "credits" or "license()" for more information.
->>> 2+2
-4
->>> 
+# An instruction that evaluates to a single value is an expression.
+# Spam + 'World'
+# An instruction that doesn't is a statement.
+# spam = 2 + 2
+# IDLE is an editor.
+# The interactive shell window has the >>> prompt.
+# The file editor window is where you enter code for complete programs.
+# Data types: int, float, string
+# Strings hold text and begin and end with quotes: ‘Hello world!'
+# Values can be stored in variables: spam = 42
+# Variables can be used anywhere values can be used in expressions: spam + 1
+
+
+
+
